@@ -1,18 +1,21 @@
 # GhostWalls
 
-A new Flutter project.
+A Flutter based wallpaper app with many features
 
-## Getting Started
+## Key Features
+- This app uses [pixabay api](https://pixabay.com/api/docs/) for getting images.
+- You can Download the wallpaper.
+- You can set the Wallpaper as your homescreen,lockscreen or both.
+- You can sort the wallpapers according to the option which are popular and latest.
+- You can see all the information about the image and its owner, you can also see the views,likes and downloads of the image.
+- You can select between a large number of categories to browse from.
+- you can search for any wallpaper of liking.
+ 
+### Contact Me 
 
-This project is a starting point for a Flutter application.
+- [Instagram](https://www.instagram.com/_ghost_wheel_)
+- [Linkedin](https://www.linkedin.com/in/sourav-ojha-82ba81195/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Download
-- You can download the Ghost news app from [here.](https://bughunter-99.github.io/GhostWalls/)
+
+- You can download the Ghost news app from [here.](https://bughunter-99.github.io/GhostWalls/docs/)
