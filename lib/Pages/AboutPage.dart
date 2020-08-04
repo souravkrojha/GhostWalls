@@ -69,7 +69,7 @@ class ContactPage extends StatelessWidget {
                       style: TextStyle(color: Colors.white),
                     ),
                     onTap: () {
-                      launch("https://github.com/bughunter-99/GhostNews");
+                      launch("https://github.com/bughunter-99/GhostWalls");
                     },
                   ),
                   ListTile(
@@ -83,7 +83,7 @@ class ContactPage extends StatelessWidget {
                     ),
                     onTap: () {
                       launch(
-                          "https://github.com/bughunter-99/GhostNews/issues");
+                          "https://github.com/bughunter-99/GhostWalls/issues");
                     },
                   )
                 ],
