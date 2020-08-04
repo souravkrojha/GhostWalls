@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Download
-- You can download the Ghost news app from [here.](https://bughunter-99.github.io/GhostWalls/docs/)
+- You can download the Ghost news app from [here.](https://bughunter-99.github.io/GhostWalls/)
